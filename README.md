@@ -1,6 +1,4 @@
-Sure! Here's a **GitHub README** description you can add for your project. It explains what your application does and how to set it up.
 
----
 
 # Stock Price Logger - Dow Jones
 
@@ -108,4 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize and adjust the instructions based on your setup or the features you add!
